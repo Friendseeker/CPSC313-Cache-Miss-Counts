@@ -36,4 +36,4 @@ Number of misses: 9
 - LRU
 - MRU
 - FIFO
-- LFO
+- LFU
